@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://6fsyrstemi5v"
+path="res://.godot/imported/ligthless_stealth.dialogue-3cd627b55de73ecc2af363a89ce222ef.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/ligthless/1_stealth/stealth_components/ligthless_stealth.dialogue"
+dest_files=["res://.godot/imported/ligthless_stealth.dialogue-3cd627b55de73ecc2af363a89ce222ef.tres"]
+
+[params]
+
+defaults=true

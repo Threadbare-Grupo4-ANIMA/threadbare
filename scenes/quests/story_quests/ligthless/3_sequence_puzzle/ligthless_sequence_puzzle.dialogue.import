@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://bobo0fsmueao1"
+path="res://.godot/imported/ligthless_sequence_puzzle.dialogue-cd820c2b2bb975dd420cf456514a34bd.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/ligthless/3_sequence_puzzle/ligthless_sequence_puzzle.dialogue"
+dest_files=["res://.godot/imported/ligthless_sequence_puzzle.dialogue-cd820c2b2bb975dd420cf456514a34bd.tres"]
+
+[params]
+
+defaults=true
