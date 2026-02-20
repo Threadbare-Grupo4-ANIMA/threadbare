@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://bhilawcjsrjm5"
+path="res://.godot/imported/ligthless_checkpoint.dialogue-8635a2eb077fc9723861efd97c37230e.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/ligthless/1_stealth/stealth_components/ligthless_checkpoint.dialogue"
+dest_files=["res://.godot/imported/ligthless_checkpoint.dialogue-8635a2eb077fc9723861efd97c37230e.tres"]
+
+[params]
+
+defaults=true

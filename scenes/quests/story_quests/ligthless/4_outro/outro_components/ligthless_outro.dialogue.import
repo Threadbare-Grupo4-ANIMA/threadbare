@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://divpi0vgy7dhr"
+path="res://.godot/imported/ligthless_outro.dialogue-3c929b0b23a56f46f83b253ddf0e844d.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/ligthless/4_outro/outro_components/ligthless_outro.dialogue"
+dest_files=["res://.godot/imported/ligthless_outro.dialogue-3c929b0b23a56f46f83b253ddf0e844d.tres"]
+
+[params]
+
+defaults=true
