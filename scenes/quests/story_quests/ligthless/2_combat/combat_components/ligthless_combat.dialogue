@@ -1,11 +1,14 @@
-# SPDX-FileCopyrightText: The Threadbare Authors
+# SPDX-FileCopyrightText:
+ The Threadbare Authors
 # SPDX-License-Identifier: MPL-2.0
 
 ~ start
-Something in this scene will throw projectiles at you. The goal is to redirect them toward the targets.
-Explore the Scene Tree to add, change, or remove elements.
+*llegas al segundo mundo*
+En este planeta el tiempo corre más lento de lo normal, por el gran tamaño que tiene, siendo uno de los más grandes.
+Tendras que completar el desafío del guardian del frangmeno, tendras que desviar las energías de ki llenando frasco de este mismo
+una vez llenado un frasco podras obtener 
 => END
 
 ~ well_done
-You can add text here after the player takes the collectible. Be creative with this one!
+Bien hecho!! vé al tercer mundo a conseguir el ultimo fragmento
 => END
